@@ -1,0 +1,9 @@
+rascaline
+equistore
+numpy
+torch
+scikit-learn
+ase 
+pyscf
+hickle
+ 
